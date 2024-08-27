@@ -1,0 +1,72 @@
+dma,wealth_score,genres_list
+San Antonio,1.623931623931624,[]
+Baltimore,1.323423017384553,"[""News"",""Reality"",""Talk"",""Comedy"",""Sitcom"",""Drama"",""Sports event"",""Documentary""]"
+Detroit,1.310195919188455,"[""Sports non-event"",""Adventure"",""Action"",""Crime drama"",""House/garden"",""Suspense"",""Children"",""Entertainment""]"
+Austin,1.2711323615888497,"[""Animated"",""Football"",""Crime"",""Fantasy"",""Newsmagazine"",""Mystery"",""Consumer"",""Special""]"
+Sacramnto-Stkton-Modesto,1.2668983216070457,"[""Music"",""Shopping"",""Law"",""Cooking"",""Science fiction"",""Game show"",""Interview"",""Sports talk""]"
+San Francisco-Oak-San Jose,1.2523400679268373,"[""Educational"",""Basketball"",""Western"",""Animals"",""Spanish"",""Travel"",""Nature"",""Outdoors""]"
+Seattle-Tacoma,1.2461203339681173,"[""Auto"",""Soap"",""Fashion"",""Docudrama"",""Soccer"",""Historical drama"",""Anthology"",""Biography""]"
+Cleveland-Akron (Canton),1.219783174336312,"[""Military"",""Awards"",""Aviation"",""Poker"",""Card games"",""Softball"",""Boxing"",""Martial arts""]"
+Toledo,1.208659916433023,"[""History"",""Home improvement"",""Baseball"",""Horror"",""Playoff sports"",""Politics"",""Science"",""Paranormal""]"
+Harrisburg-Lncstr-Leb-York,1.2079220508100939,"[""Public affairs"",""Weather"",""Bus./financial"",""Auto racing"",""Romance"",""Medical"",""Hockey"",""Golf""]"
+Philadelphia,1.205012520599199,"[""Romance-comedy"",""Variety"",""War"",""Community"",""How-to"",""Religious"",""Health"",""Comedy-drama""]"
+Lexington,1.1977755217465422,"[""Adults only"",""Horse"",""Tennis"",""Auction"",""Musical"",""Collectibles"",""Hunting"",""Dance""]"
+Houston,1.1913376528875275,"[""Bicycle racing"",""Wrestling"",""Track/field"",""Gymnastics"",""Gay/lesbian"",""Fundraiser"",""Dog show"",""Bowling""]"
+"Portland, OR",1.1353253977210136,"[""Mixed martial arts"",""Art"",""Fishing"",""Pro wrestling"",""Musical comedy"",""Parenting"",""Action sports"",""Technology""]"
+"Washington, DC (Hagrstwn)",1.1144216105587266,"[""Standup"",""Debate"",""Agriculture"",""Arts/crafts"",""Anime"",""Self improvement"",""Event"",""Exercise""]"
+Augusta-Aiken,1.1128715077227525,[]
+Atlanta,1.1111980389237475,"[""Environment"",""Parade"",""Shooting"",""Rodeo"",""Equestrian"",""Figure skating"",""Motorcycle racing"",""Skiing""]"
+Little Rock-Pine Bluff,1.082137552102464,"[""Surfing"",""Holiday"",""Water polo"",""Snowmobile"",""Kayaking"",""Children-special"",""Yacht racing"",""Beach soccer""]"
+Sioux Falls(Mitchell),1.073030643581126,"[""Cheerleading"",""Gaming"",""Archery"",""Volleyball"",""Motorcycle"",""Motorsports"",""Miniseries"",""Drag racing""]"
+Miami-Ft. Lauderdale,1.06682853472421,"[""Boat"",""Bullfighting"",""Swimming"",""Performing arts"",""Rugby"",""Beach volleyball"",""Intl soccer"",""Triathlon""]"
+Eureka,1.053123551146194,"[""Holiday special"",""Billiards"",""Lacrosse"",""Music special"",""Curling"",""Skateboarding"",""Weightlifting"",""Sailing""]"
+Dallas-Ft. Worth,1.0517613106688342,"[""Arm wrestling"",""Diving"",""Snowboarding"",""Watersports"",""Pool"",""Running"",""Computers"",""Olympics""]"
+Fargo-Valley City,1.0446334537058672,"[""Cricket"",""Speed skating"",""Field hockey"",""Bobsled"",""Luge"",""Boat racing"",""Dog racing"",""Racquet""]"
+Greenville-N.Bern-Washngtn,1.0406826988440798,"[""Fencing"",""Badminton"",""Holiday music special"",""Indoor soccer"",""Handball"",""Ballet"",""Soap talk"",""Intl hockey""]"
+Amarillo,1.0374296708935984,"[""Holiday-children"",""Aerobics"",""Theater"",""Darts"",""Holiday-children special"",""Bicycle"",""Table tennis"",""Polo""]"
+Odessa-Midland,1.0268403459349362,"[""Mountain biking"",""Rowing"",""Hydroplane racing"",""Canoe"",""Gaelic football"",""Opera"",""Skating"",""Squash""]"
+Rapid City,1.0187107917312686,"[""Water skiing"",""Biathlon"",""Skeleton"",""Music talk"",""Children-talk"",""Children-music""]"
+Jonesboro,1.0184786137908068,[]
+Minot-Bsmrck-Dcknsn(Wlstn),1.01707150040882,[]
+"Bend, OR",1.0067430653374116,[]
+"Springfield, MO",0.9947148327115651,[]
+Shreveport,0.9929748871283484,[]
+Johnstown-Altoona-St Colge,0.9926736148866496,[]
+Lubbock,0.9891359829418346,[]
+Phoenix (Prescott),0.9885758903567917,[]
+St. Joseph,0.9881480149031439,[]
+Lake Charles,0.9878396593070969,[]
+Raleigh-Durham (Fayetvlle),0.9876744987278252,[]
+Erie,0.986654252489812,[]
+Kansas City,0.9767711437705457,[]
+Waco-Temple-Bryan,0.9737252811076248,[]
+Wheeling-Steubenville,0.9704252283802559,[]
+Oklahoma City,0.9675059988480321,[]
+Elmira (Corning),0.9667513131551484,[]
+"Alexandria, LA",0.9612679044912842,[]
+Columbia-Jefferson City,0.9554645703363073,[]
+Tyler-Longview(Lfkn&Ncgd),0.9509859132655036,[]
+San Angelo,0.9493055953338,[]
+Parkersburg,0.9480228065891362,[]
+Monroe-El Dorado,0.9445933152542508,[]
+Joplin-Pittsburg,0.9392561507269874,[]
+Abilene-Sweetwater,0.9365550055967831,[]
+Victoria,0.9308611808471147,[]
+Sherman-Ada,0.9276810460441743,[]
+Unknown,0.9144147137591784,[]
+Tulsa,0.9024336236834192,[]
+Ft. Smith-Fay-Sprngdl-Rgrs,0.8905126576273079,[]
+Pittsburgh,0.8883496192914637,[]
+Wilkes Barre-Scranton-Hztn,0.8743915715366031,[]
+Charleston-Huntington,0.8734569567703385,[]
+Buffalo,0.8669115774404106,[]
+New York,0.8533673485278503,[]
+Greenwood-Greenville,0.8365413163499443,[]
+Wichita Falls & Lawton,0.8279488930524669,[]
+Bluefield-Beckley-Oak Hill,0.8098479342978563,[]
+Roanoke-Lynchburg,0.7704343035687591,[]
+Memphis,0.7674990052973492,[]
+Los Angeles,0.76023880613566,[]
+Clarksburg-Weston,0.613066164530357,[]
+Reno,0.1801801801801802,[]
+Cincinnati,0,[]
